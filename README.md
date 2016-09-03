@@ -6,7 +6,7 @@ and run in just about any modern browser  -- including iOS devices like the iPho
 the Kindle!  (The frame rate is low enough in the Kindle that the visualizations aren't terribly useful, but the tree-based 
 visualizations -- BSTs and AVL Trees -- seem to work well enough)
 
-Check the [Algorithms](Index.html) menu for all of the latest javascript implementations.
+Check the [Algorithms](http://codeyu.com/VisualizingAlgorithms/) menu for all of the latest javascript implementations.
 
 ## How to Use the Visualizations
 
@@ -53,7 +53,7 @@ a smart phone or a desktop with loads of screen real estate.
 
 ## Writing your Own
 
- [The tutorial for creating your own visualizations is now online!](source.html)
+ [The tutorial for creating your own visualizations is now online!](http://codeyu.com/VisualizingAlgorithms/source.html)
 All source code is available there as well.  If you want to create your own visualizations, but are having trouble
 getting things to work, please let me know.  Everything is licensed under FreeBSD, and you
 can use it for whatever you like.  Please let me know if you using the code -- I'm curious to see what
