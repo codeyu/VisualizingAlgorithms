@@ -6,7 +6,7 @@ and run in just about any modern browser  -- including iOS devices like the iPho
 the Kindle!  (The frame rate is low enough in the Kindle that the visualizations aren't terribly useful, but the tree-based 
 visualizations -- BSTs and AVL Trees -- seem to work well enough)
 
-Check the [Algorithms](../Index.html) menu for all of the latest javascript implementations.
+Check the [Algorithms](Index.html) menu for all of the latest javascript implementations.
 
 ## How to Use the Visualizations
 
